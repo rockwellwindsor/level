@@ -1,6 +1,6 @@
 $(function () {
   
-  // For Ruby on Rails applications.  Feel free to comment this out or removie it.
+  // For Ruby on Rails applications.  Feel free to comment this out or remove it if using a different framework.
   $(document).on('turbolinks:load', function() {
     // Find all the elements to level
     var el = document.getElementsByClassName('level');
